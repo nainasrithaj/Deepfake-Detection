@@ -66,4 +66,4 @@ python3 ~/jetson-inference/python/examples/imagenet.py \
   This project demonstrates how a lightweight deep learning model can be deployed on edge devices using NVIDIA Jetson and TensorRT for real-time image classification of real vs fake facial images.
 
   This is the link to my video:
-https://youtu.be/tr6YpDiB5L8
+https://youtu.be/BaCtMRLYWXk
